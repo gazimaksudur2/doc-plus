@@ -9,7 +9,7 @@ import Footer from '../componentes/Footer';
 
 const Home = () => {
     return (
-        <div className='min-h-screen bg-base-100 flex flex-col justify-between'>
+        <div className='min-h-screen bg-base-200 flex flex-col justify-between'>
             <div className='w-[90%] mx-auto my-8'>
                 <NavBar />
                 <Banner />

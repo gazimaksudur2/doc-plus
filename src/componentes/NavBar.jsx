@@ -5,7 +5,7 @@ const NavBar = () => {
     return (
         <div className='w-[90%] mx-auto pb-6 flex items-center justify-between'>
             <img className='w-20 object-cover' src={logo} alt="logo" />
-            <ul className='flex items-center gap-4'>
+            <ul className='flex items-center gap-6 text-[#020043] text-lg'>
                 <li>Home</li>
                 <li>Services</li>
                 <li>Blog</li>
