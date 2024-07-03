@@ -10,8 +10,7 @@ export default {
         poppins: '"Poppins", sans-serif',
       },
       backgroundImage: {
-        'hero-pattern': "url('/img/hero-pattern.svg')",
-        'footer-texture': "url('/img/footer-texture.png')",
+        'offer': "url('/src/assets/Rectangle 32.png')",
       }
     },
   },

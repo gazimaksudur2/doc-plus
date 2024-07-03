@@ -1,5 +1,4 @@
 import { MdArrowOutward } from "react-icons/md";
-import React from 'react';
 import conversation_img from '../assets/Rectangle 24.png'
 
 const OurMission = () => {
